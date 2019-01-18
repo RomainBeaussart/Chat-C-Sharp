@@ -1,0 +1,18 @@
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/bin/Debug/ChatCSharp.exe
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/bin/Debug/ChatCSharp.pdb
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/obj/x86/Debug/Serveur.csproj.CoreCompileInputs.cache
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/obj/x86/Debug/ChatCSharp.exe
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/obj/x86/Debug/ChatCSharp.pdb
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/obj/x86/Debug/Serveur.csprojAssemblyReference.cache
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/bin/Debug/Communication.dll
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/bin/Debug/Communication.pdb
+/Users/romainbeaussart/Projects/ChatCSharp/ChatCSharp/obj/x86/Debug/Serveur.csproj.CopyComplete
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/bin/Debug/ChatCSharp.exe
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/bin/Debug/ChatCSharp.pdb
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/bin/Debug/Communication.dll
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/bin/Debug/Communication.pdb
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/obj/x86/Debug/Serveur.csprojAssemblyReference.cache
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/obj/x86/Debug/Serveur.csproj.CoreCompileInputs.cache
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/obj/x86/Debug/Serveur.csproj.CopyComplete
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/obj/x86/Debug/ChatCSharp.exe
+/Users/romainbeaussart/Google Drive/ChatCSharp/ChatCSharp/obj/x86/Debug/ChatCSharp.pdb

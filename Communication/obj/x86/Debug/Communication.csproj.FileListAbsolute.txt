@@ -1,0 +1,12 @@
+/Users/romainbeaussart/Projects/ChatCSharp/Communication/bin/Debug/Communication.dll
+/Users/romainbeaussart/Projects/ChatCSharp/Communication/bin/Debug/Communication.pdb
+/Users/romainbeaussart/Projects/ChatCSharp/Communication/obj/x86/Debug/Communication.csproj.CoreCompileInputs.cache
+/Users/romainbeaussart/Projects/ChatCSharp/Communication/obj/x86/Debug/Communication.dll
+/Users/romainbeaussart/Projects/ChatCSharp/Communication/obj/x86/Debug/Communication.pdb
+/Users/romainbeaussart/Projects/ChatCSharp/Communication/obj/x86/Debug/Communication.csprojAssemblyReference.cache
+/Users/romainbeaussart/Google Drive/ChatCSharp/Communication/bin/Debug/Communication.dll
+/Users/romainbeaussart/Google Drive/ChatCSharp/Communication/bin/Debug/Communication.pdb
+/Users/romainbeaussart/Google Drive/ChatCSharp/Communication/obj/x86/Debug/Communication.csprojAssemblyReference.cache
+/Users/romainbeaussart/Google Drive/ChatCSharp/Communication/obj/x86/Debug/Communication.csproj.CoreCompileInputs.cache
+/Users/romainbeaussart/Google Drive/ChatCSharp/Communication/obj/x86/Debug/Communication.dll
+/Users/romainbeaussart/Google Drive/ChatCSharp/Communication/obj/x86/Debug/Communication.pdb
